@@ -3,7 +3,17 @@
 ### Diego Leon [diegoleonb](https://github.com/diegoleonb)
 #### 2022-2
 
+### Ejecutar:
 
+```
+java -cp target/classes edu.escuelaing.arep.EchoServerController
+```
+
+### TestExample:
+
+```
+java -cp target/classes edu.escuelaing.arep.RunTests edu.escuelaing.arep.examples.TestExample 
+```
 ## Licencia
 
 [LICENCIA](License.txt)

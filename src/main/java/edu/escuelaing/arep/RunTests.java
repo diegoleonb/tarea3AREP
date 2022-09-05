@@ -2,7 +2,7 @@ package edu.escuelaing.arep;
 
 import java.lang.reflect.Method;
 
-import edu.escuelaing.arep.Test;
+import edu.escuelaing.arep.annotations.Test;
 
 public class RunTests {
     public static void main(String[] args) throws Exception {
