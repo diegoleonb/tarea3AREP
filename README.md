@@ -21,7 +21,7 @@ Si desea utilizar la app puede dirigirse al siguiente enlace de Heroku:
 http://springdiego.herokuapp.com/hello
 ```
 
-Si desea dirigirse automaticamente dele click [stockarep](http://springdiego.herokuapp.com/hello)
+Si desea dirigirse automaticamente dele click [App](http://springdiego.herokuapp.com/hello)
 
 Si desea ver otras opciones cambie el "/hello" por los siguientes:
 
